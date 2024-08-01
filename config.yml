@@ -1,0 +1,8 @@
+quitOnTopLevelReturn: true
+os:
+  editCommand: "nvim"
+customCommands:
+  - key: "<c-f>"
+    context: "global"
+    command: "git pull --rebase"
+    description: "Pull Rebase"

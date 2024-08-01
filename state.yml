@@ -1,0 +1,34 @@
+lastupdatecheck: 0
+recentrepos:
+    - /Users/henry/Library/Application Support/lazygit
+    - /Users/henry/.config/nvim
+    - /Users/henry/Proyectos/mftech-p2p-services
+    - /Users/henry/Proyectos/wfp-mobile
+    - /Users/henry/Proyectos/mftech-p2p-stream-services
+    - /Users/henry/Proyectos/mftech-p2p-rules
+    - /Users/henry/Proyectos/mftech-commons
+    - /Users/henry/Proyectos/mftech-p2p-mobile
+    - /Users/henry/Proyectos/mftech-p2p-webhooks
+    - /Users/henry/Proyectos/password
+    - /Users/henry/Proyectos/mftech-wfp-services
+    - /Users/henry/Proyectos/mftech-p2m-admin
+    - /Users/henry/Proyectos/zinli-pay
+    - /Users/henry/Proyectos/cdk-serverless
+    - /Users/henry/.config/kitty
+    - /Users/henry/Proyectos/mftech-p2m-dashboard
+    - /Users/henry/Proyectos/mftech-p2p-services-e2e
+    - /Users/henry/Proyectos/mftech-p2p-tables-db
+    - /Users/henry/Proyectos/card-scanner-flutter
+    - /Users/henry/Proyectos/mftech-bot-services
+startuppopupversion: 5
+lastversion: 0.43.1
+customcommandshistory:
+    - git pull --rebase
+hidecommandlog: true
+ignorewhitespaceindiffview: false
+diffcontextsize: 2
+renamesimilaritythreshold: 50
+localbranchsortorder: recency
+remotebranchsortorder: alphabetical
+gitlogorder: topo-order
+gitlogshowgraph: always
